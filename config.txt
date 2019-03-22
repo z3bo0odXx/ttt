@@ -1,5 +1,5 @@
 owner=516473846983950336
-prefix=3
+prefix=1
 game=@vine,3play help
 stayinchannel=true
 songinstatus=false
