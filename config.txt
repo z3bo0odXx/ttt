@@ -3,4 +3,4 @@ prefix=3
 game=@vine,3play help
 stayinchannel=true
 songinstatus=false
-token=https://discordapp.com/api/oauth2/authorize?client_id=558559370942742529&permissions=0&scope=bot
+token=NTU4NTU5MzcwOTQyNzQyNTI5.D3Yoaw.CVJDGZJkvrGNA20S3G_UPakUnlU
